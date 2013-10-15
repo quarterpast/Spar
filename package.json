@@ -16,5 +16,8 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/quarterto/Cadence/issues"
+  },
+  "devDependencies": {
+    "regis": "0.0.0"
   }
 }
