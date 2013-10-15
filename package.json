@@ -1,0 +1,20 @@
+{
+  "name": "spar",
+  "version": "0.0.0",
+  "description": "A parser, I guess?",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/quarterto/Cadence.git"
+  },
+  "keywords": [
+    "parse"
+  ],
+  "author": "Matt Brennan <mwrbrennan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarterto/Cadence/issues"
+  }
+}
